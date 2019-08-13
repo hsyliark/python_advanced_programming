@@ -2,7 +2,7 @@
 
 ## Advanced python programming     
 
-### 코드출처 : https://github.com/PinkWink/DataScience  
+### 코드출처 : https://github.com/PinkWink/DataScience   
 
 #### 주피터노트북 경로설정 : Anaconda Prompt 들어가서 다음 명령어 입력 jupyter notebook --notebook-dir='주소입력'
 
